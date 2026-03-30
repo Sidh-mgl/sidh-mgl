@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
+</p>
 # 💫 About Me:
 I’m currently working on: Freelancing projects<br><br>I’m looking to collaborate on: Open to collaboration<br><br>I’m looking for help with: —<br><br>I’m currently learning: UI/UX, DSA, and Web3<br><br>Ask me about: Coding & development (coding enthusiast)<br><br>
 
